@@ -1,1 +1,2 @@
 # online-shopping-cart-system-using-Python
+I developed a basic Shopping Cart System using Python. I used dictionaries to store products and cart information, and functions for displaying products, adding and removing items, viewing the cart, calculating the total amount, and checkout. I also used exception handling to handle invalid user inputs. The project helped me understand Python dictionaries, functions, loops, conditional statements, and basic CRUD-like operations
